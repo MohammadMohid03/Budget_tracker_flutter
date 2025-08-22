@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "597579805332",
+    "project_id": "budget-tracker-73c41",
+    "storage_bucket": "budget-tracker-73c41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597579805332:android:2ffb18a5296f94b1af3a81",
+        "android_client_info": {
+          "package_name": "com.app.budget_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8TiuAaRhInhi_J_tRoEJYX7uC96GD7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597579805332:android:c150bf34d54b65e9af3a81",
+        "android_client_info": {
+          "package_name": "com.example.budget_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8TiuAaRhInhi_J_tRoEJYX7uC96GD7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597579805332:android:6d3f188a70d93abdaf3a81",
+        "android_client_info": {
+          "package_name": "com.example.budget_tracker_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8TiuAaRhInhi_J_tRoEJYX7uC96GD7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
